@@ -1,1 +1,2 @@
-# Time-Series-Data-Preprocessing-using-Large-Language-Model-LLM-
+# Time Series Data Preprocessing using Large Language Model LLM
+This project demonstrates time series data preprocessing on a hospital patients dataset using pandas and a Large Language Model (LLM) like OpenAI. The workflow involves reading data, cleaning and transforming columns (e.g., converting dates, renaming columns), removing invalid entries (e.g., dropping zero-age rows), categorizing ages into groups, and converting categorical values (e.g., the 'NoShow' column into binary). The final processed dataset is saved in CSV format for further analysis or modeling.
